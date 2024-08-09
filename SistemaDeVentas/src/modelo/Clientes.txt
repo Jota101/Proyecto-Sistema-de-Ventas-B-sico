@@ -1,0 +1,2 @@
+Codigo: 1000; Nombres: Jair Aaron; Apellidos: Fernandez Bocanegra; Direccion: Jr. Micaela Bastidas #432; Telefono: 985052629; Numero DNI: 75450413
+Codigo: 1001; Nombres: Flor Yuleisi; Apellidos: Barraza Velasquez; Direccion: Santa Luisa - Los Olivos; Telefono: 985815616; Numero DNI: 75481254

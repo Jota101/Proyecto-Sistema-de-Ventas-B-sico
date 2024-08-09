@@ -1,0 +1,5 @@
+Codigo: 2001; Nombre: Shampoo; Precio: 19.99; Stock Actual: 5; Stock Minimo: 20; Stock Maximo: 25
+Codigo: 2002; Nombre: Cepillo; Precio: 3.5; Stock Actual: 27; Stock Minimo: 5; Stock Maximo: 50
+Codigo: 2003; Nombre: Jabon; Precio: 5.0; Stock Actual: 16; Stock Minimo: 6; Stock Maximo: 40
+Codigo: 2004; Nombre: Pasta de dientes; Precio: 7.0; Stock Actual: 19; Stock Minimo: 4; Stock Maximo: 35
+Codigo: 2005; Nombre: Desodorante; Precio: 12.9; Stock Actual: 20; Stock Minimo: 5; Stock Maximo: 40
